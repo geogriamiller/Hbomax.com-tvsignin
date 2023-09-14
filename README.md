@@ -25,4 +25,4 @@ Hey, wanna know how to get your HBO Max on your Smart TV hassle-free? **[Hbomax.
 * When it asks for permission to log in to HBO Max on your TV, just hit ‘Allow Access.’
 * Voila! You’re all set to dive into the HBO Max wonderland in no time!
 
-To get more information or support visit: **[www.hbomax.com/tvsignin] (https://hbomax-tvsignins.com/)**
+To get more information or support visit: **[www.hbomax.com/tvsignin])**
